@@ -4,7 +4,7 @@ import subprocess
 from subprocess import Popen
 
 jmPath = "/mnt/data/jmBin/" # Install path of JModelica
-codePath = "/mnt/data/Dropbox/code/SAHISim_git/" #Root directory of the SAHISim python code
+codePath = "/mnt/data/code/SAHISim_git/" #Root directory of the SAHISim python code
 sys.path.append(jmPath+'Python/')#
 sys.path.append(codePath)
 sys.path.append(codePath+'common/')
