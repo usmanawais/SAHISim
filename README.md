@@ -50,5 +50,7 @@ To generate the FMUs go to "Modelicas" directory, there is a script named GenFMU
 
 To execute a simple example, go to "run" directory, open the shell scripts and the python scripts, and set the paths. The description of the paths is given in comments. Also change the name of terminal you are using in the shell script. Then execute the shell script passing the names of python script files as arguments and two screens should appear. One of the screens asks you to press enter when ready. Press the enter button when asked to do so, the simulation will start and the data will be dumped on the path specified in the scripts.
 
+For further information, please contact using the email above.
+
  
 
